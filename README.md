@@ -1,4 +1,4 @@
-# calorie_counter
+# Calorie Counter
 
 ### Developed using HTML, CSS, JavaScript.
 <hr>
